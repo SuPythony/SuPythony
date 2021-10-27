@@ -16,4 +16,4 @@ I’m Sumanyu Aggarwal, a 14 year old passionate programmer!
 
 # Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Supythony)
+![My github stats](https://github-readme-stats.vercel.app/api?username=SuPythony)
