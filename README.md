@@ -14,6 +14,6 @@ I’m Sumanyu Aggarwal, a 14 year old passionate programmer!
 
 <a href="https://github.com/SuPythony"><img width="32" height="32" src="https://img.icons8.com/material-outlined/24/ffffff/github.png"/></a><a href="https://play.google.com/store/apps/dev?id=5057035239149093341"><img width="32" height="32" src="https://img.icons8.com/ios-glyphs/30/ffffff/google-play.png"/></a>
 
-# Stats
+# My Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=SuPythony)
