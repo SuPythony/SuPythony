@@ -8,7 +8,7 @@ I’m Sumanyu Aggarwal, a 14 year old passionate programmer!
 
 # Links
 
-<a href="https://github.com/SuPythony"><img width="32" height="32" src="https://img.icons8.com/material-outlined/24/github.png"/></a><a href="https://play.google.com/store/apps/dev?id=5057035239149093341"><img width="32" height="32" src="https://img.icons8.com/ios-glyphs/30/google-play.png"/></a>
+<a href="https://github.com/SuPythony"><img width="32" height="32" src="https://img.icons8.com/material-outlined/24/github.png"/></a><a href="https://play.google.com/store/apps/dev?id=5057035239149093341"><img width="32" height="32" src="https://img.icons8.com/ios-glyphs/30/google-play.png"/></a><a href="https://twitter.com/SuPythony"><img width="32" height="32" src="https://img.icons8.com/ios-glyphs/30/twitter.png"/></a>
 
 # My Stats
 
