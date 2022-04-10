@@ -4,9 +4,9 @@ I’m Sumanyu Aggarwal, a 14 year old passionate programmer!
 
 # My Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,tailwind,ts,prisma,heroku,git,vscode,androidstudio) 
+![My Skills](https://skillicons.dev/icons?i=py,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio) 
 
-![Make games in Pygame](https://img.shields.io/badge/Games-Pygame-success) ![Make websites with SvelteKit](https://img.shields.io/badge/Websites-SvelteKit-success)      ![Make websites with AlpineJS](https://img.shields.io/badge/Websites-AlpineJS-success) ![Deploy with Netlify](https://img.shields.io/badge/Deploy-Netlify-success) ![Deploy with Heroku](https://img.shields.io/badge/Deploy-Heroku-success)
+![Make games in Pygame](https://img.shields.io/badge/Games-Pygame-success) ![Make websites with SvelteKit](https://img.shields.io/badge/Websites-SvelteKit-success)      ![Make websites with AlpineJS](https://img.shields.io/badge/Websites-AlpineJS-success)
 
 
 # Links
