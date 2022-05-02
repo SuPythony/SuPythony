@@ -1,6 +1,6 @@
 Hello 👋,
 
-I’m Sumanyu Aggarwal, a 14 year old passionate programmer!
+I’m Sumanyu Aggarwal, a 15 year old passionate programmer!
 
 # My Skills
 
