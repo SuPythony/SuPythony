@@ -14,6 +14,7 @@ I’m Sumanyu Aggarwal, a 15 year old passionate programmer!
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SuPythony)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14078826/supythony)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal-409694245)
 <a href="https://github.com/SuPythony">Github</a>
 <a href="https://play.google.com/store/apps/dev?id=5057035239149093341">Play Store</a>
 
