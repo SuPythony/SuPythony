@@ -6,9 +6,6 @@ I’m Sumanyu Aggarwal, a 15 year old passionate programmer!
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio) 
 
-![Make games in Pygame](https://img.shields.io/badge/Games-Pygame-success) ![Make websites with SvelteKit](https://img.shields.io/badge/Websites-SvelteKit-success)     
-
-
 # Links
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
