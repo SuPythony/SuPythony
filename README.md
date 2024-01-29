@@ -12,8 +12,6 @@ I’m Sumanyu Aggarwal, a 16 year old passionate programmer!
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SuPythony)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14078826/supythony)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal-409694245)
-<a href="https://github.com/SuPythony">Github</a>
-<a href="https://play.google.com/store/apps/dev?id=5057035239149093341">Play Store</a>
 
 # My Stats
 
