@@ -4,7 +4,7 @@ I’m Sumanyu Aggarwal, a 17 year old passionate developer and competitive progr
 
 # My Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio) 
+![My Skills](https://skillicons.dev/icons?i=py,cpp,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio) 
 
 # Reach Me
 
