@@ -16,8 +16,26 @@
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
-[CodeForces](https://codeforces.com/profile/SuPythony)
+- Machine Learning and Deep Learning with Python  
+- Game Development with Godot  
+- Spanish  
+
+---
+
+## ❗Other Interests
+
+- I love learning (spoken) languages - you might occasionally catch me reading in Esperanto
+- I'm passionate about mathematics and computer science - both in theory and practics  
+- I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
+- I enjoy playing the guitar  
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumanyu-aggarwal)
+- 📊 [CodeForces](https://codeforces.com/profile/SuPythony)
+- 🤝 [Discord](https://discordapp.com/users/745179011872718918)
+- 📫 [Email](mailto:sumanyu.code@gmail.com)
