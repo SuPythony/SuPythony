@@ -18,6 +18,6 @@
 
 ## 📫 Connect With Me
 
-[CodeForces](https://codeforces.com/profile/SuPythony)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
+[CodeForces](https://codeforces.com/profile/SuPythony)
