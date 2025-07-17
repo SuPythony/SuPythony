@@ -3,10 +3,11 @@
 ## 👨‍💻 About Me
 
 🎓 CS Undergrad @ International Institute of Information Technology, Hyderabad (IIIT-H)  
-💡 I love solving problems and building things — be it apps, games, or systems  
+💡 I love solving problems and building things
 🧠 Eternally Curious  
 🏆 Competitive Programmer, Fullstack, Mobile and Game Dev  
 🎯 Interested in AI/ML, Theoretical CS and Research  
+💻 Aspiring Computer Scientist
 
 ---
 
