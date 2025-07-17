@@ -1,19 +1,24 @@
-Hello 👋,
+# Hi👋, I'm Sumanyu Aggarwal
 
-I’m Sumanyu Aggarwal, a passionate developer and competitive programmer.
+## About Me
 
-# My Skills
+- Undergraduate Computer Science student at International Institute of Information Technology, Hyderabad
+- Passionate about Competitve Programming, Fullstack, Mobile and Game Dev
+- Interested in Research and Theoretical CS
+- Currently Learning AI/ML
+
+
+## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio,clion,pycharm,vim) 
 
-# Reach Me
+## Reach Me
 
 [CodeForces](https://codeforces.com/profile/SuPythony)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/745179011872718918)
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14078826/supythony)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal-409694245)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sumanyu-aggarwal)
 
-# My Stats
+## My Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=SuPythony&theme=dracula&hide_rank=true)
 
