@@ -4,7 +4,7 @@ I’m Sumanyu Aggarwal, a passionate developer and competitive programmer.
 
 # My Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio) 
+![My Skills](https://skillicons.dev/icons?i=py,cpp,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio,clion,pycharm,vim) 
 
 # Reach Me
 
