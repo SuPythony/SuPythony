@@ -28,8 +28,9 @@
 ## ❗Other Interests
 
 - I love learning (spoken) languages - you might occasionally catch me reading in Esperanto
-- I'm passionate about mathematics and computer science - both in theory and practics  
+- I'm passionate about mathematics and computer science - both in theory and practice  
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
+- I'm a bookworm
 - I enjoy playing the guitar  
 
 ---
