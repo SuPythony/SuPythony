@@ -40,4 +40,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumanyu-aggarwal)
 - 📊 [CodeForces](https://codeforces.com/profile/SuPythony)
 - 🤝 [Discord](https://discordapp.com/users/745179011872718918)
-- 📫 [Email](mailto:sumanyu.code@gmail.com)
+- 📫 [Email](mailto:sumanyu.aggarwal@research.iiit.ac.in)
