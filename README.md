@@ -6,7 +6,7 @@
 💡 I love solving problems and building things  
 🧠 Eternally Curious  
 🏆 Competitive Programmer, Fullstack, Mobile and Game Dev  
-🎯 Interested in AI/ML, Theoretical CS and Research  
+🎯 Interested in Theoretical CS, AI/ML and Research  
 💻 Aspiring Computer Scientist  
 
 ---
@@ -31,7 +31,7 @@
 - I'm passionate about mathematics and computer science - both in theory and practice  
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
 - I'm a bookworm
-- I enjoy playing the guitar  
+- I enjoy playing the guitar, and listening to rock, classical music and opera.  
 
 ---
 
