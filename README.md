@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,dart,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio,clion,pycharm,vim) 
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,dart,bash,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio,clion,pycharm,vim) 
 
 ---
 
