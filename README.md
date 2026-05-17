@@ -30,7 +30,7 @@
 - I love learning (spoken) languages - you might occasionally catch me reading in Esperanto
 - I'm passionate about mathematics and computer science - both in theory and practice  
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
-- I'm a bookworm
+- I'm a [bookworm](https://goodreads.com/supythony) and a [cinephile](https://letterboxd.com/supythony/)
 - I enjoy playing the guitar, and listening to rock, classical music and opera.  
 
 ---
