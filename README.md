@@ -9,6 +9,8 @@
 🎯 Interested in Theoretical CS, AI/ML and Research  
 💻 Aspiring Computer Scientist  
 
+[Resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqXxN4pZlgEEK4-mK?usp=sharing)
+
 ---
 
 ## 🛠️ Tech Stack
