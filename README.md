@@ -8,8 +8,7 @@
 🏆 Competitive Programmer, Fullstack, Mobile and Game Dev  
 🎯 Interested in Theoretical CS, AI/ML and Research  
 💻 Aspiring Computer Scientist  
-
-[Resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqXxN4pZlgEEK4-mK?usp=sharing)
+📄 [Resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqXxN4pZlgEEK4-mK?usp=sharing)
 
 ---
 
@@ -42,4 +41,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumanyu-aggarwal)
 - 📊 [CodeForces](https://codeforces.com/profile/SuPythony)
 - 🤝 [Discord](https://discordapp.com/users/745179011872718918)
-- 📫 [Email](mailto:sumanyu.aggarwal@research.iiit.ac.in)
+- 📫 [Email](mailto:sumanyu.code@gmail.com)
