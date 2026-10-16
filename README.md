@@ -1,44 +1,22 @@
 # Hi👋, I'm Sumanyu Aggarwal
 
-## 👨‍💻 About Me
+Reach me through [email](mailto:sumanyu.code@gmail.com)
 
-🎓 CS Undergrad @ International Institute of Information Technology, Hyderabad (IIIT-H)  
-💡 I love solving problems and building things  
-🧠 Eternally Curious  
-🏆 Competitive Programmer, Fullstack, Mobile and Game Dev  
-🎯 Interested in Theoretical CS, AI/ML and Research  
-💻 Aspiring Computer Scientist  
-📄 [Resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqXxN4pZlgEEK4-mK?usp=sharing)
+## About Me
 
----
+I'm a 2nd year CS Undergrad at IIIT Hyderabad. 
 
-## 🛠️ Tech Stack
+I love computers (been loving them since 5th grade) and all the magic they entail.
 
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,dart,bash,flutter,react,firebase,html,css,sass,md,graphql,svelte,alpinejs,tailwind,ts,prisma,heroku,netlify,git,vscode,androidstudio,clion,pycharm,vim) 
+I have worked across the whole software engineering stack, including frontend, backend, mobile and games. Currently focused on C++ and low-latency systems. Academically, I am interested in algorithms, graph theory and distributed computing.
 
----
+You can find most of the work I've done over the years here. Some of my early stuff is still waiting pushing.
 
-## 📚 Currently Learning
+Check out my [resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqXxN4pZlgEEK4-mK?usp=sharing)
 
-- Machine Learning and Deep Learning with Python  
-- Game Development with Godot  
-- Spanish  
+### Outside of code:
 
----
-
-## ❗Other Interests
-
-- I love learning (spoken) languages - you might occasionally catch me reading in Esperanto
-- I'm passionate about mathematics and computer science - both in theory and practice  
+- I'm a major [bookworm](https://goodreads.com/supythony) and a [cinephile](https://letterboxd.com/supythony/)
+- I love learning (spoken) languages - you might occasionally catch me reading in Esperanto 
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
-- I'm a [bookworm](https://goodreads.com/supythony) and a [cinephile](https://letterboxd.com/supythony/)
-- I enjoy playing violin and guitar, and listening to rock, classical music and opera.  
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumanyu-aggarwal)
-- 📊 [CodeForces](https://codeforces.com/profile/SuPythony)
-- 🤝 [Discord](https://discordapp.com/users/745179011872718918)
-- 📫 [Email](mailto:sumanyu.code@gmail.com)
+- I enjoy playing the violin and guitar, and listening to rock, classical music and opera.
