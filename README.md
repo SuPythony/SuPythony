@@ -16,7 +16,8 @@ Check out my [resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqX
 
 ### Outside of code:
 
-- I'm a major [bookworm](https://goodreads.com/supythony) and a [cinephile](https://letterboxd.com/supythony/)
+- I'm a [bookworm](https://goodreads.com/supythony) and a [cinephile](https://letterboxd.com/supythony/)
 - I love learning (spoken) languages - you might occasionally catch me reading in Esperanto 
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
 - I enjoy playing the violin and guitar, and listening to rock, classical music and opera.
+- I also enjoy birdwatching and photographing nature.
