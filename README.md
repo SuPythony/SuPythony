@@ -20,4 +20,4 @@ Check out my [resume](https://drive.google.com/drive/folders/1iFaUF8qn9cmx-FHSqX
 - I love learning (spoken) languages - you might occasionally catch me reading in Esperanto 
 - I'm a fan of board games (and yes, video games too - especially strategy and puzzle)  
 - I enjoy playing the violin and guitar, and listening to rock, classical music and opera.
-- I also enjoy birdwatching and photographing nature.
+- I also enjoy birdwatching and nature photography.
