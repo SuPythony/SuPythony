@@ -6,7 +6,7 @@ Reach me through [email](mailto:sumanyu.code@gmail.com)
 
 I'm a 2nd year CS Undergrad at IIIT Hyderabad. 
 
-I love computers (been loving them since 5th grade) and all the magic they entail.
+I love computers (been in cs-land since 5th grade) and all the magic they entail.
 
 I have worked across the whole software engineering stack, including frontend, backend, mobile and games. Currently focused on C++ and low-latency systems. Academically, I am interested in algorithms, graph theory and distributed computing.
 
